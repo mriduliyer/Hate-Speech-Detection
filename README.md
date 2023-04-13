@@ -3,8 +3,7 @@ This project is a hate speech detector that uses Logistic Regression as its mach
 
 ## How it Works
 
-The hate speech detector is based on Logistic Regression, which is a machine learning algorithm used for binary classification. The algorithm is trained on a dataset of text labeled as hate speech or not hate speech, and uses this training data to predict whether a given text is hate speech or not.
-How to Install
+The hate speech detector is based on Logistic Regression, which is a machine learning algorithm used for binary classification. The algorithm is trained on a dataset of text labeled as hate speech or not hate speech, and uses this training data to predict whether a given text is hate speech or not. A brief look of the finished project is provided in the 'screenshots.pdf' file.
 
 ## Contact
 
